@@ -1,0 +1,10 @@
+/Users/warrenthompson/Sites/med-centric-credit-2.0-demo/bin/Debug/netcoreapp2.0/med-centric-credit-2.0-demo.deps.json
+/Users/warrenthompson/Sites/med-centric-credit-2.0-demo/bin/Debug/netcoreapp2.0/med-centric-credit-2.0-demo.runtimeconfig.json
+/Users/warrenthompson/Sites/med-centric-credit-2.0-demo/bin/Debug/netcoreapp2.0/med-centric-credit-2.0-demo.runtimeconfig.dev.json
+/Users/warrenthompson/Sites/med-centric-credit-2.0-demo/bin/Debug/netcoreapp2.0/med-centric-credit-2.0-demo.dll
+/Users/warrenthompson/Sites/med-centric-credit-2.0-demo/bin/Debug/netcoreapp2.0/med-centric-credit-2.0-demo.pdb
+/Users/warrenthompson/Sites/med-centric-credit-2.0-demo/obj/Debug/netcoreapp2.0/med-centric-credit-2.0-demo.csproj.CoreCompileInputs.cache
+/Users/warrenthompson/Sites/med-centric-credit-2.0-demo/obj/Debug/netcoreapp2.0/med-centric-credit-2.0-demo.AssemblyInfoInputs.cache
+/Users/warrenthompson/Sites/med-centric-credit-2.0-demo/obj/Debug/netcoreapp2.0/med-centric-credit-2.0-demo.AssemblyInfo.cs
+/Users/warrenthompson/Sites/med-centric-credit-2.0-demo/obj/Debug/netcoreapp2.0/med-centric-credit-2.0-demo.dll
+/Users/warrenthompson/Sites/med-centric-credit-2.0-demo/obj/Debug/netcoreapp2.0/med-centric-credit-2.0-demo.pdb
